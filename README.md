@@ -47,6 +47,8 @@ Choose whichever method you like:
 - C++ compiler (with C++20 support, currently MSVC)
 - Windows SDK (with winsock2 support)
 
+> cmake + vs2022 + win32
+
 ### libraries: 
 (you do not need to download/install them manually)
 
